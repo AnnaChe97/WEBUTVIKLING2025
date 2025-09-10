@@ -10,6 +10,15 @@ body{
 
 /* ========== GLOBAL HEADER ========== */
 
+#global-header{
+  nav{
+    ul{
+      li{
+        list-style-type: none;
+      }
+    }
+  }
+}
 /*
   #mainlogo: Stil for hovedlogoen/merkenavnet som lenke.
   HVORFOR: Større og tyngre typografi gjør logoen tydelig; 
